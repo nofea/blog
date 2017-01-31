@@ -32,6 +32,3 @@ version: "0.0.1"
 custom_header: false
 custom_nav_footer: false
 reverse: false
-
-#plugins
-markdown: CommonMark
